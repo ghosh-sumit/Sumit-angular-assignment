@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "sumit"
+  "defaultProject": "sumit",
+  "cli": {
+    "analytics": "49f8cf21-8276-4ab4-896e-66535d95cc65"
+  }
 }
